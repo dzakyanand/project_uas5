@@ -1,0 +1,33 @@
+export const mockUsers = [
+  {
+    id: 'u1',
+    nim: '232505018',
+    nama: 'Dzaky Anand R',
+    email: 'dzaky.anand@gmail.com',
+    role: 'mahasiswa',
+    prodi: 'Sistem Informasi',
+    semester: '5',
+    angkatan: 2023,
+    password: 'dz2325',
+  },
+  {
+    id: 'u2',
+    nim: '23250502',
+    nama: 'Rina Marlina',
+    email: 'rina.marlina@example.com',
+    role: 'mahasiswa',
+    prodi: 'Sistem Informasi',
+    angkatan: 2023,
+    password: 'rina2325',
+  },
+  {
+    id: 'u3',
+    nim: '23250503',
+    nama: 'Dedi Setiawan',
+    email: 'dedi.setiawan@example.com',
+    role: 'mahasiswa',
+    prodi: 'Manajemen Informatika',
+    angkatan: 2023,
+    password: 'dedi2325',
+  },
+];
